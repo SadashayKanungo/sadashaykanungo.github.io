@@ -12,7 +12,7 @@ window.onload= function() {
     responsive: [{
   	breakpoint: 800,
     	options: {
-    	maxParticles: 80,
+    	maxParticles: 80
     }
   }]
   });
