@@ -12,9 +12,7 @@ window.onload= function() {
     responsive: [{
   	breakpoint: 800,
     	options: {
-    	maxParticles: 200,
-	sizeVariations:20,
-	speed:1
+    	maxParticles: 80,
     }
   }]
   });
